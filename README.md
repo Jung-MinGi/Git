@@ -14,6 +14,6 @@ git commit -m "" -- commit 된 파일들이 버전별로 관리된다
 
 
 ### Branch의 기본 개념
-
- * 3way-merge
+형상이란... 브랜치의 히스토리를 말한다
+ * 3way-merge(
  * fast-forward merge
