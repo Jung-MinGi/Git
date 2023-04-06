@@ -1,6 +1,6 @@
 # Git (분산형 버전 관리 시스템)
 
-## GIT vs Gihub
+## GIT vs Github
 
 * GIT
   * 소프트웨어 개발 및 소스코드 관리에 사용
