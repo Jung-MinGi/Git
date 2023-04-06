@@ -13,7 +13,7 @@ git add . -- 변경된 파일을 staging area에 add한다 파일이 트리구�
 git commit -m "" -- commit 된 파일들이 버전별로 관리된다
 git branch --현재 브랜치 보기(뒤에 단어를 쓰면 새로운 브랜치를 생성한다)<br>
 git checkout A --'A'라는 브랜치를 사용하겠다고 명시적으로 지정<br>
-
+git push -- (업로드+merge)를 뜻한다
 > 체크아웃에 -b 옵션을 넣으면 브랜치 작성과 체크아웃을 동시에 실행 할 수 있다
  
 ### Branch의 기본 개념
