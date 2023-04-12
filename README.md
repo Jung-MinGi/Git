@@ -27,7 +27,7 @@ git checkout A --'A'라는 브랜치를 사용하겠다고 명시적으로 지�
 
 git push -- (업로드+merge)를 뜻한다
 
-git remote add origin [내가 깃허브에 만든 특정 레파지토리 주소] --이러면 로컬과 원격저장소가 연결됨
+git remote add origin [내가 깃허브에 만든 특정 레파지토리 주소] --이러면 로컬과 원격저장소가 연결만 되는거임 아직 push는 안된상태
 ### Branch의 기본 개념
 형상이란... 브랜치의 히스토리를 말한다
  * 3way-merge(형상이 다를 때)
