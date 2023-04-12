@@ -25,7 +25,7 @@ git branch --현재 브랜치 보기(뒤에 단어를 쓰면 새로운 브랜치
 git checkout A --'A'라는 브랜치를 사용하겠다고 명시적으로 지정<br>
 > 체크아웃에 -b 옵션을 넣으면 브랜치 작성과 체크아웃을 동시에 실행 할 수 있다<br>
 
-git push -- (업로드+merge)를 뜻한다
+git push origin master -- (업로드+merge)를 뜻한다
 
 git remote add origin [내가 깃허브에 만든 특정 레파지토리 주소] --이러면 로컬과 원격저장소가 연결만 되는거임 아직 push는 안된상태
 ### Branch의 기본 개념
